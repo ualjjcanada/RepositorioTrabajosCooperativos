@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 /* Programa inicial */
 int main(){
@@ -8,6 +7,6 @@ int main(){
 	printf("escrito en C de la carrera.\n");
 	printf("Adios.\n");
 	printf("\n\n\nPulse una tecla para finalizar");
-	getch();
+	getchar();
 	return 0;
 }
