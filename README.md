@@ -53,7 +53,7 @@ int main(){
 }
 ```
 
-{% spoiler %}
+{% spoiler "Save automático"%}
 
 Cuidado aquí se guarda automáticamente pero esto no pasa siempre
 
