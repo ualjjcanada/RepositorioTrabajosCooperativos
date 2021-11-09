@@ -60,6 +60,7 @@ Cuidado aquí se guarda automáticamente pero esto no pasa siempre
 {% endspoiler %}
 
 
+{% next %}
 
 ### Compilación 
 	
@@ -134,15 +135,13 @@ Finalmente podemos ejecutar el programa, para lo que se utiliza la orde **./**
 ```
 $ ./hola
 
-Height: 8
-       #
-      ##
-     ###
-    ####
-   #####
-  ######
- #######
-########
+Este es mi primer programa
+escrito en C de la carrera.
+Adios.
+
+
+
+Pulse una tecla para finalizar
 ```
 
 
