@@ -1,11 +1,29 @@
-# Hola mundo
+# Compilación y ejecución en el laboratorio en línea
 
-## Ejecución del programa
+## Etapas del desarrollo de programas
+Fase	Descripción
+
+- **Análisis** Definición clara de lo que hace el programa: especificación de la información de entrada y de salida, lista de tareas (funciones o requisitos) de manipulación de información a realizar.
+- **Diseño**  del algoritmo (método para resolver el problema mediante una serie de pasos claramente detallados)
+- **Codificación** Escritura del algoritmo en un lenguaje de programación normalmente de alto nivel y almacenamiento del mismo en un archivo fuente (programa fuente).
+- **Traducción** (compilación) del programa fuente a un programa objeto (en lenguaje máquina). El resultado será bien un archivo objeto o bien un listado de errores de compilación; en este último caso habrá que corregir dichos errores y volver a traducir hasta obtener el programa objeto.
+- **Montaje** (mezcla, fusión, enlace o “linkado”): combinación del programa objeto con otros módulos de librería no incorporados durante la fase de traducción, generándose como resultado un programa ejecutable.
+- **Prueba**Verificación y depuración del programa mediante conjuntos de datos de prueba para comprobar que el programa es correcto (se ajusta a la especificación dada en la fase de análisis). Si el programa no funciona correctamente habrá que volver a re-diseñar el algoritmo. La ejecución del programa se puede realizar desde el sistema operativo o a través de otros mecanismos.
+
+{% next %}
+
+## Primer programa en la Universidad
+
+
 
 Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
 
 
 Let's recreate that pyramid in C, albeit in text, using hashes (`#`) for bricks, a la the below. Each hash is a bit taller than it is wide, so the pyramid itself is also be taller than it is wide.
+
+### Compilación. 
+	
+	Se realiza la “traducción” del programa a lenguaje máquina (código objeto), primer paso para la construcción del ejecutable. Para ello podemos utilizar
 
 ```
 $ make hola
