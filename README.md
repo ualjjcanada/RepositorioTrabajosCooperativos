@@ -34,6 +34,33 @@ Escribiremos un programa que nos muestre un saludo en la pantalla. Hay un dicho 
 **Hola mundo**
 
 
+## Edición
+
+Completar el programa para que su contenido sea
+
+```
+#include <stdio.h>
+
+/* Programa inicial */
+int main(){
+	printf(Hola.\n");
+	printf("Este es mi primer programa\n");
+	printf("escrito en C de la carrera.\n");
+	printf("Adios.\n");
+	printf("\n\n\nPulse una tecla para finalizar");
+	getchar();
+	return 0;
+}
+```
+
+{% Spoiler %}
+
+Cuidado aquí se guarda automáticamente pero esto no pasa siempre
+
+{% endspoiler %}
+
+
+
 ### Compilación. 
 	
 	Se realiza la “traducción” del programa a lenguaje máquina (código objeto), primer paso para la construcción del ejecutable. Para ello podemos utilizar
@@ -42,7 +69,10 @@ Escribiremos un programa que nos muestre un saludo en la pantalla. Hay un dicho 
 $ make hola
 ```
 
-Con esto traducimos el programa:
+Con esto traducimos el programa
+
+Pero 
+
 
 ```
 $ ./hola
