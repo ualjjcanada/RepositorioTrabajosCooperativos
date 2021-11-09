@@ -63,13 +63,14 @@ Cuidado aquí se guarda automáticamente pero esto no pasa siempre
 
 ### Compilación. 
 	
-	Se realiza la “traducción” del programa a lenguaje máquina (código objeto), primer paso para la construcción del ejecutable. Para ello podemos utilizar
+Se realiza la “traducción” del programa a lenguaje máquina (código objeto), primer paso para la construcción del ejecutable. Para ello podemos utilizar
+una orden desde la terminal que hace a la vez la **compilación** y el **montaje**, la orden *make*, seguido por el nombre del archivo que queremos compilar
 
 ```
 $ make hola
 ```
 
-Con esto traducimos el programa
+Con esto traducimos el programa, pero 
 
 Pero 
 
