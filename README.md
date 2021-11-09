@@ -13,9 +13,12 @@ Para resolver un problema utilizando un programa de ordenardor tenemos que pasar
 
 {% spoiler "Sin embargo" %}
 
-Aun es pronto, es lo que aprenderá a hacer en la asignatura
+Aun es pronto, es lo que aprenderá a hacer en la asignatura.
+Primero veamos con compilar y ejecutar un programa.
 
-![primero aprendamos a comer antes de ser cocineros](ppio.jpg)
+![primero aprendamos a comer antes de ser cocineros](ppio.png)
+
+
 
 {% endspoiler %}
 
@@ -26,11 +29,10 @@ Aun es pronto, es lo que aprenderá a hacer en la asignatura
 ## Primer programa en la Universidad
 
 
+Escribiremos un programa que nos muestre un saludo en la pantalla. Hay un dicho en programación que dice que cuando un programador nace no llora dice 
 
-Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
+**Hola mundo**
 
-
-Let's recreate that pyramid in C, albeit in text, using hashes (`#`) for bricks, a la the below. Each hash is a bit taller than it is wide, so the pyramid itself is also be taller than it is wide.
 
 ### Compilación. 
 	
