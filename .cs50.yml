@@ -1,5 +1,3 @@
 lab50:
   files:
     - !exclude "*"
-    - !include hola.c
-    - !include pseudocode.txt
