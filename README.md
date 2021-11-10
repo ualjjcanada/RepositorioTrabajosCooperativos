@@ -19,22 +19,22 @@ Utiliza la cuenta de la ual como alumno
 debemos entrar en
 
 
-![primero aprendamos a comer antes de ser cocineros](ppio.png)
+![logins](login.png)
 
 {% next %}
 
 
-![primero aprendamos a comer antes de ser cocineros](ppio.png)
+![dar permisos en nuestra cuenta](conexgithub.png)
 
 {% next %}
 
 
-![primero aprendamos a comer antes de ser cocineros](ppio.png)
+![Preparando](preparing.png)
 
 {% next %}
 
 
-![primero aprendamos a comer antes de ser cocineros](ppio.png)
+![Amazon](nube.png)
 
 {% next %}
 
