@@ -15,14 +15,39 @@ Crear la cuenta de github utilizando el boton **Sing up** en la esquina superior
 
 En caso de dudas en el proceso se puede consultar los trabajos del proyecto aigora (Universidad Politécnica de Madrid).
 
-[![Ver video](cuenta.png)](https://www.youtube.com/watch?v=n83rlKcZrss)
+[![Ver video](Inicio/cuenta.png)](https://www.youtube.com/watch?v=n83rlKcZrss)
 
 
+
+git add, git commint, git pull git push
 
 
 ## Entornos de desarrollo integrado IDE
 
-![Estructura](arquitectura.png)
+![Estructura](Inicio/arquitectura.png)
+
+
+Existen diversas posibilidades para configurar el modo de trabajo.
+
+### Uso de un entorno online en la nube
+
+Se basa en la utilización directa de la nube, no es necesario instalar nada local y la colaboración se hace directamente sobre la nube. Tiene el inconvieniente de la falta de control y de la posible "desconexión" en un momento dado
+
+Requisitos: Una cuenta en github para facilitar el acceso al entorno integrado IDE CS50.
+
+Opcionalmente se puede subir el trabajo a GitHub o descargarlo de forma local en un archivo comprimido.
+
+
+### Uso de un entorno local
+
+En esta arquitectura tenemos mas "controlado" el código, pero es necesario realizar la instalación de un conjunto de herramientas adicionales
+
+- Compilador de C, por ejemplo MinGW o cualquier otro
+- Visual Studio Code
+- Extensiones de Visual Studio Code para C
+- Es necesario la utilzación de la nube (Github) para compartir el código.
+
+
 
 ## Conectar con el IDE
 
@@ -48,4 +73,7 @@ debemos entrar en
 
 
 
+## Visual studio code
 
+
+https://www.youtube.com/watch?v=qQT-6WufAEE
