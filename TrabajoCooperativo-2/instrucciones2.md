@@ -77,6 +77,8 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 
 ### Ejercicio 1. 
 
+
+
 ### Ejercicio 2. 
 
 ### Ejercicio 3. 
@@ -86,3 +88,64 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 ### Ejercicio 5. 
 
 ### Ejercicio 6. 
+
+### Ejercicios adicionales
+
+#### 1.
+
+¿Cómo se representan en lenguaje de programación C los datos lógicos? 
+
+
+#### 2
+
+Listar los operadores específicos de lenguaje de programación C que no hemos presentado en la notación de diseño e indicar su significado:
+Operador exclusivo de C	Significado
+	
+	
+	
+	
+
+#### 3
+
+Calcular los rangos de los tipos de datos enteros del entorno de trabajo Dev-c++/ Code::blocks y anotarlos en la siguiente tabla:
+
+Tipo de datos	Identificador de tipo	Rango	Tamaño
+Enteros	short int
+signed short int		
+	int
+signed int		
+	long int
+signed long int		
+	unsigned int		
+	unsigned long int		
+Nota: utilizar el operador sizeof para calcular el tamaño en bytes de los diferentes tipos.
+
+¿Qué diferencias encuentran con otros entornos de trabajo con tamaños de enteros de 2 bytes (int y short) y 4 bytes para enteros largos (long int)?
+
+#### 4
+
+ Realizar nuevas pruebas del programa correspondiente al ejercicio 3 con los siguientes datos de entrada y anotar los resultados:
+Datos de Entrada	Resultados
+a = -3
+b = 5
+h = 10	m =
+a = -3
+b = 5
+h = b	m =
+¿Han observado algún resultado erróneo? ¿Es posible resolverlo utilizando únicamente la instrucción de control secuencial? 
+
+#### 5 
+¿Qué diferencias encuentran cuando quieren leer por teclado y escribir en pantalla datos de tipo real en simple y real en doble precisión utilizando las funciones printf y scanf de la biblioteca stdio.h?
+
+
+#### 6 
+¿Qué diferencias encuentran entre las funciones ceil y floor de la biblioteca math.h entre sí y  con la función interna trunc presentada en la notación de diseño?
+
+
+#### 7
+Indicar como se puede calcular en lenguaje de programación C el cociente (parte entera) y el resto (parte decimal) de la división entre dos números reales. 
+
+
+
+
+
