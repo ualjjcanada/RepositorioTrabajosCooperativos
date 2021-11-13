@@ -21,7 +21,7 @@
 - Formar el equipo de trabajo
 - Inicializar los entornos de trabajo - Cuenta de github
 - Revisar y probar los ejemplos incluidos
-- Realizar los ejercicios 1 al 9 de esta ficha y dejar los resultados en el repositorio creado. 
+- Realizar los ejercicios 1 al 6 de esta ficha y dejar los resultados en el repositorio creado. 
 
 ---
 
@@ -59,6 +59,7 @@ Los 5 ingredientes del aprendizaje cooperativo son:
 
                  G. Gibbs, “Aprendiendo en Equipos”
 
+GRUPO DE PRACTICAS:  XXXXX
 
 | Alumno | Apellidos y  nombre | DNI |
 | ----------- | ---------------------- |----------- |
@@ -208,11 +209,11 @@ Valor 1	Valor 2	Código de operación	Resultado
 
 ¿Ha observado algún resultado anómalo? ¿Cuál puede ser la causa del mismo? 
 
-### Ejercicio 4. 
+### Ejercicio 4
 
 Repita los ejercicios 1 y 3 utilizando  el otro IDE.
 
-### Ejercicio 5.
+### Ejercicio 5
 
  Teclee el programa siguiente en el editor:
 
@@ -252,6 +253,14 @@ Compile el programa anterior. Si aparecen errores tendrá que corregirlos y volv
 
 
 Error sintáctico	Corrección del error
+
+|  Error | Corrección |
+|  ----- |----------- |
+|        |            |
+|        |            |
+|        |           |
+
+
 	
 ### Ejercicio 6
 
