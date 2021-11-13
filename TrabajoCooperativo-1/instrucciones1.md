@@ -249,12 +249,13 @@ int main(){
 Compile el programa anterior. Si aparecen errores tendrá que corregirlos y volver a compilar el programa. Cuando el programa quede sin errores, ejecútelo desde el entorno integrado. Seguidamente genere un ejecutable y ejecútelo desde el sistema operativo.
 
 
+
  Realice un listado de todos los errores sintácticos que haya detectado en los programas fuente de esta práctica y anótelos en la siguiente tabla, indicando cómo los ha corregido:
 
 
 Error sintáctico	Corrección del error
 
-|  Error | Corrección |
+|  Error | Corrección propuesta |
 |  ----- |----------- |
 |        |            |
 |        |            |
