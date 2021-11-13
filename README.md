@@ -4,14 +4,12 @@
 
 Crear la cuenta de github
 
-{% spoiler "Tip" %}
+
 
 Utiliza la cuenta de la ual como alumno
 
-{% endspoiler %}
 
 
-{% next %}
 
 
 ## Conectar con el IDE
@@ -19,23 +17,23 @@ Utiliza la cuenta de la ual como alumno
 debemos entrar en
 
 
-![logins](login.png)
-
-{% next %}
+![logins](Inicio/login.png)
 
 
-![dar permisos en nuestra cuenta](conexgithub.png)
-
-{% next %}
 
 
-![Preparando](preparing.png)
-
-{% next %}
+![dar permisos en nuestra cuenta](Inicio/conexgithub.png)
 
 
-![Amazon](nube.png)
 
-{% next %}
+
+![Preparando](Inicio/preparing.png)
+
+
+
+
+![Amazon](Inicio/nube.png)
+
+
 
 
