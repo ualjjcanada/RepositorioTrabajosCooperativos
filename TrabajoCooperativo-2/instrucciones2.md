@@ -57,22 +57,22 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 ---
 <img src="/inicio/prob.png">  Construir un programa que calcule la masa en kilogramos de una bola de hierro dado su diámetro en centímetros.
 
-&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[  CalculoMasaBolaHierro.psc](./Secuencial/CalcularMasaBolaHierro.psc) [Ver](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
-&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[ CalculoMasaBolaHierro.c](./Secuencial/CalcularMasaBolaHierro.c)
+&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
+&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
+
 
 ----
-
 <img src="/inicio/prob.png">     Construir un programa que lea por teclado los componentes espaciales de dos vectores y que calcule e imprima en pantalla la suma de los dos vectores, su producto escalar y  vectorial.
 
-&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[calculoVectorial.psc](./Secuencial/calculoVectorial.psc) [Ver](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.psc)
-&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[  calculoVectorial.c](./Secuencial/calculoVectorial.c)
-
+&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[calculoVectorial.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.psc)
+&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[  calculoVectorial.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.c)
 
 ----
-  <img src="/inicio/prob.png"> Una empresa de envasado automático de aceite dispone de diversos tipos de envases con capacidades de 50, 20, 10, 5, 2 y 1 litro, respectivamente. Construir un programa que dado por teclado un número entero de litros a envasar, determine el menor número de envases completos necesarios e indique el número de envases de cada tipo, presentándolos en pantalla
+<img src="/inicio/prob.png"> Una empresa de envasado automático de aceite dispone de diversos tipos de envases con capacidades de 50, 20, 10, 5, 2 y 1 litro, respectivamente. Construir un programa que dado por teclado un número entero de litros a envasar, determine el menor número de envases completos necesarios e indique el número de envases de cada tipo, presentándolos en pantalla
 
-&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[ calcularNumeroEnvases.psc](./Secuencial/calcularNumeroEnvases.psc) [Ver](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.psc)
-&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[ calcularNumeroEnvases.c](./Secuencial/calcularNumeroEnvases.c)
+&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[ calcularNumeroEnvases.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.psc)
+&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[ calcularNumeroEnvases.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.c)
+
 -----
 
 ### Ejercicio 1. 
