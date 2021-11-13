@@ -18,8 +18,15 @@ En caso de dudas en el proceso se puede consultar los trabajos del proyecto aigo
 [![Ver video](Inicio/cuenta.png)](https://www.youtube.com/watch?v=n83rlKcZrss)
 
 
+Los repositorios local y remoto se deben sincronizar utilizando diversos comandos git que se muestran a continuación.
 
-git add, git commint, git pull git push
+![Estructura](Inicio/git.png)
+
+- *git init* - convierte la carpeta en un directorio git, es decir define las tres áreas de trabajo que permiten controlar las versiones de un proyecto. 
+    ![Estructura](Inicio/work.png) 
+- *git add* - Añade archivos a la staged área, es decir los habilita como una versión a dar por definitiva
+- *git commit* - Hace definitiva los archivos previamente añadidos. Es necesario incluir un mensaje 
+- *git pull*  y  *git push* son los dos comandos que permiten sincronizar el escritorio remoto.
 
 
 ## Entornos de desarrollo integrado IDE
@@ -35,7 +42,7 @@ Se basa en la utilización directa de la nube, no es necesario instalar nada loc
 
 Requisitos: Una cuenta en github para facilitar el acceso al entorno integrado IDE CS50.
 
-Opcionalmente se puede subir el trabajo a GitHub o descargarlo de forma local en un archivo comprimido.
+Si bien no es necesario, es recomendable   subir el trabajo a GitHub o descargarlo de forma local en un archivo comprimido, para mantener una copia local del trabajo. 
 
 
 ### Uso de un entorno local
