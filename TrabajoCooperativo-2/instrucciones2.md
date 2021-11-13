@@ -91,7 +91,7 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 
 ### Ejercicios adicionales
 
-#### 1.
+#### 1
 
 ¿Cómo se representan en lenguaje de programación C los datos lógicos? 
 
