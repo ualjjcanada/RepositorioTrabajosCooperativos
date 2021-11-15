@@ -89,3 +89,8 @@ debemos entrar en
 
 https://www.youtube.com/watch?v=qQT-6WufAEE
 
+
+
+https://github.com/dmalan
+
+https://cs.harvard.edu/malan

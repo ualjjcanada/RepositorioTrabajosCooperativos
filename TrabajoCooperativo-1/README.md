@@ -1,5 +1,7 @@
 # Entornos de programación integrados
 
+poseso
+
 ### Objetivos
 -	Manejar un entorno integrado de desarrollo de programas en lenguaje C y usarlo para desarrollar programas.
 -	Ejecutar los programas desarrollados bien desde el sistema operativo o bien desde el soporte de ejecución del entorno integrado.
