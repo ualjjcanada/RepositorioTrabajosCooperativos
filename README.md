@@ -13,7 +13,7 @@ Lo primero por tanto será crear una cuenta en www.gihub.com
 
 Crear la cuenta de github utilizando el boton **Sing up** en la esquina superior derecha de la página www.github.com. Se debe utilizar la cuenta institucional de la universidad de Almería (.inlumine.es) para el registro de la cuenta.
 
-En caso de dudas en el proceso se puede consultar los trabajos del proyecto aigora (Universidad Politécnica de Madrid).[Aigora](https://github.com/MaterialesProgramacion/punto_inicio).
+En caso de dudas en el proceso se puede consultar los trabajos del proyecto aigora (Universidad Politécnica de Madrid). [Aigora](https://github.com/MaterialesProgramacion/punto_inicio).
 
 [![Ver video](Inicio/cuenta.png)](https://www.youtube.com/watch?v=n83rlKcZrss)
 
@@ -31,14 +31,18 @@ Los repositorios local y remoto se deben sincronizar utilizando diversos comando
 
 ## Entornos de desarrollo integrado IDE
 
+Es posible trabajar con dos configuraciones diferentes IDE, una con uso totalmente integrado en la nube y otro que implica la instalación y control del código local, sobre la computadora.
+
+El esquema mostrado a continuación muestra ambas posibilidades. Cabe decir que si bien el para la versión "online" el uso de Github es solo necesario para la identificación, es recomendable, para tener doble copia del trabajo, o bien hacer descargas locales.
+
+
 ![Estructura](Inicio/arquitectura.png)
 
 
-Existen diversas posibilidades para configurar el modo de trabajo.
 
 ### Uso de un entorno online en la nube
 
-Se basa en la utilización directa de la nube, no es necesario instalar nada local y la colaboración se hace directamente sobre la nube. Tiene el inconvieniente de la falta de control y de la posible "desconexión" en un momento dado
+Se basa en la utilización directa de la nube, no es necesario instalar nada local y la colaboración se hace directamente sobre la nube, compartiendo el área de trabajo. Tiene el inconvieniente de la falta de control y de la posible "desconexión" en un momento dado.
 
 Requisitos: Una cuenta en github para facilitar el acceso al entorno integrado IDE CS50.
 
