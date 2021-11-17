@@ -319,7 +319,7 @@ Diseñar un programa que calcule e imprima la masa en kg de una pieza de hierro 
 
 
 H<sub>2</sub>O  CO<sub>2</sub>
-
+e maíz <sup> TM </sup>
 
 ### Ejercicio 4. 
 
