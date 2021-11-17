@@ -57,10 +57,10 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 ---
 #### Construir un programa que calcule la masa en kilogramos de una bola de hierro dado su diámetro en centímetros.
 
-&ensp;&ensp;&ensp;  [  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
-&ensp;&ensp;&ensp;  [ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
+Diseño &ensp;&ensp;&ensp;  [  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
+Codificación &ensp;&ensp;&ensp;  [ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
 
-
+**DISEÑO**
 ```
 Algoritmo calcularMasaBolaHierro
 Const	
@@ -82,7 +82,7 @@ Finalgoritmo
 ```
 
 
-
+**CODIFICACIÓN**
 ```
 /*
  * @authors Equipo docente Programación
@@ -127,10 +127,10 @@ Finalgoritmo
 ----
 #### Construir un programa que lea por teclado los componentes espaciales de dos vectores y que calcule e imprima en pantalla la suma de los dos vectores, su producto escalar y  vectorial.
 
-&ensp;&ensp;&ensp;  [calculoVectorial.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.psc)
-&ensp;&ensp;&ensp;  [  calculoVectorial.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.c)
+Diseño &ensp;&ensp;&ensp;  [calculoVectorial.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.psc)
+Codificación &ensp;&ensp;&ensp;  [  calculoVectorial.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.c)
 
-
+**DISEÑO**
 ```
 Algoritmo calculoVectorial
 	// programa que suma dos vectores y calcula 	
@@ -159,7 +159,7 @@ Var
 	Escribir "Prod.v:(",px,",",py,",",pz,")"
 Finalgoritmo
 ```
-
+**CODIFICACIÓN**
 ```
 
 #include <stdio.h>
@@ -214,10 +214,10 @@ int main(){
 ----
 #### Una empresa de envasado automático de aceite dispone de diversos tipos de envases con capacidades de 50, 20, 10, 5, 2 y 1 litro, respectivamente. Construir un programa que dado por teclado un número entero de litros a envasar, determine el menor número de envases completos necesarios e indique el número de envases de cada tipo, presentándolos en pantalla
 
-&ensp;&ensp;&ensp;  [ calcularNumeroEnvases.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.psc)
-&ensp;&ensp;&ensp;  [ calcularNumeroEnvases.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.c)
+Diseño &ensp;&ensp;&ensp;  [ calcularNumeroEnvases.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.psc)
+Codificación &ensp;&ensp;&ensp;  [ calcularNumeroEnvases.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.c)
 
-
+**DISEÑO**
 ```
 Algoritmo CalcularNumeroenvases
 	// programa que calcula el numero mínimo de 
@@ -257,7 +257,7 @@ Algoritmo CalcularNumeroenvases
 	Escribir n1, " envases de 1 litro" ;
 Finalgoritmo
 ```
-
+**CODIFICACIÓN**
 ```
 #include <stdio.h>
 #include <stdlib.h>
