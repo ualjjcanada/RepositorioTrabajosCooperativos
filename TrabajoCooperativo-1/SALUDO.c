@@ -2,7 +2,7 @@
 
 /* Programa inicial */
 int main(){
-	printf("Hola.\n");
+	printf(Hola.\n");
 	printf("Este es mi primer programa\n");
  
  
