@@ -60,6 +60,7 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 &ensp;&ensp;&ensp;  [  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
 &ensp;&ensp;&ensp;  [ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
 
+**************
 ```
 Algoritmo calcularMasaBolaHierro
 Const	
@@ -80,11 +81,11 @@ Var
 Finalgoritmo
 ```
 
-
+**************
 
 
 ```
-	/*
+/*
  * @authors Equipo docente Programación
  * @project Creación de Materiales Didácticos en la Univer. de Almería (2021-2022)
  * Grados en Ingeniería Elécctrica, Electrónica Industrial, Mecénica y Química industrial
