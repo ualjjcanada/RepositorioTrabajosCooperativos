@@ -62,8 +62,8 @@ Se basa en la utilización directa de la nube, no es necesario instalar nada loc
 
 Requisitos: Una cuenta en github para facilitar el acceso a los entornos online donde también existen dos opciones
 
-- IDE CS50: [ide.cs50.io].[(ide.cs50.io.)
-- Visual Studio online: code.cs50.io(code.cs50.io)
+- IDE CS50: [ide.cs50.io.](http:\\ide.cs50.io.)
+- Visual Studio online: [code.cs50.io](http:\\code.cs50.io)
 
 Si bien no es necesario para programar si que será obligatorio para ser evaluados en la asignatura subir el trabajo a GitHub, siendo también recomendable descargarlo de forma local en un archivo comprimido, para mantener una copia local del trabajo. 
 
