@@ -1,6 +1,6 @@
 # Configuración del entorno de trabajo
 
-en 
+con lo raro
 
 En esta asígnatura se **aprenderá a programar**, pero además trabajaremos de forma cooperativa para desarrollar todos los ejercicios de las prácticas.
 
