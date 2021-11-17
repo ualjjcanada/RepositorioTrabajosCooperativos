@@ -44,7 +44,9 @@ El esquema mostrado a continuación muestra ambas posibilidades. Cabe decir que 
 
 Se basa en la utilización directa de la nube, no es necesario instalar nada local y la colaboración se hace directamente sobre la nube, compartiendo el área de trabajo. Tiene el inconvieniente de la falta de control y de la posible "desconexión" en un momento dado.
 
-Requisitos: Una cuenta en github para facilitar el acceso al entorno integrado IDE CS50.
+Requisitos: Una cuenta en github para facilitar el acceso a los entornos online donde también existen dos opciones
+    - IDE CS50
+    - 
 
 Si bien no es necesario, es recomendable   subir el trabajo a GitHub o descargarlo de forma local en un archivo comprimido, para mantener una copia local del trabajo. 
 
