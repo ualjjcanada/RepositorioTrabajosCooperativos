@@ -29,6 +29,9 @@ Los repositorios local y remoto se deben sincronizar utilizando diversos comando
 - *git pull*  y  *git push* son los dos comandos que permiten sincronizar el escritorio remoto.
 
 
+## Creación de tokens personales para acceso y asignación a Organización
+
+
 ## Entornos de desarrollo integrado IDE
 
 Es posible trabajar con diversas configuraciones diferentes IDE, bien con uso totalmente integrado en la nube o en un entorno local que implica la instalación y control del código local, sobre la computadora en la que se está trabajando.
@@ -37,18 +40,6 @@ El esquema mostrado a continuación muestra ambas posibilidades. Cabe decir que 
 
 
 ![Estructura](Inicio/arquitectura.png)
-
-
-
-### Uso de un entorno online en la nube
-
-Se basa en la utilización directa de la nube, no es necesario instalar nada local y la colaboración se hace directamente sobre la nube, compartiendo el área de trabajo. Tiene el inconvieniente de la falta de control y de la posible "desconexión" en un momento dado.
-
-Requisitos: Una cuenta en github para facilitar el acceso a los entornos online donde también existen dos opciones
-    - IDE CS50
-    - 
-
-Si bien no es necesario, es recomendable   subir el trabajo a GitHub o descargarlo de forma local en un archivo comprimido, para mantener una copia local del trabajo. 
 
 
 ### Uso de un entorno local
@@ -60,39 +51,53 @@ En esta arquitectura tenemos mas "controlado" el código, pero es necesario real
 - Extensiones de Visual Studio Code para C
 - Es necesario la utilzación de la nube (Github) para compartir el código.
 
+El siguiente video muestra como trabajar en modo local.
+
+https://www.youtube.com/watch?v=qQT-6WufAEE
+
+
+### Uso de un entorno online en la nube
+
+Se basa en la utilización directa de la nube, no es necesario instalar nada local y la colaboración se hace directamente sobre la nube, compartiendo el área de trabajo. Tiene el inconvieniente de la falta de control y de la posible "desconexión" en un momento dado.
+
+Requisitos: Una cuenta en github para facilitar el acceso a los entornos online donde también existen dos opciones
+
+- IDE CS50: ide.cs50.io. 
+- Visual Studio online: code.cs50.io 
+
+Si bien no es necesario para programar si que será obligatorio para ser evaluados en la asignatura subir el trabajo a GitHub, siendo también recomendable descargarlo de forma local en un archivo comprimido, para mantener una copia local del trabajo. 
+
 
 
 ## Conectar con el IDE
 
-debemos entrar en
+### Entrar en IDE CS50 
 
+ Se debe entrar en el enlace ide.cs50.io. y a partir de aquí se muestran la sucesión de pantallas mostradas a continuación tras pulsar al login, pero si se está en GitHub no pedirá la autentificación.
 
 ![logins](Inicio/login.png)
-
-
 
 
 ![dar permisos en nuestra cuenta](Inicio/conexgithub.png)
 
 
-
-
 ![Preparando](Inicio/preparing.png)
-
-
-
 
 ![Amazon](Inicio/nube.png)
 
 
-
-## Visual studio code
-
-
-https://www.youtube.com/watch?v=qQT-6WufAEE
+Ya tenemos acceso al entorno y se puede empezar a trabajar 
 
 
+### Entrar en Visual Studio Code online
 
-https://github.com/dmalan
+code.cs50.io
 
-https://cs.harvard.edu/malan
+
+
+
+
+### Push pull
+
+https://techglimpse.com/git-push-github-token-based-passwordless/
+
