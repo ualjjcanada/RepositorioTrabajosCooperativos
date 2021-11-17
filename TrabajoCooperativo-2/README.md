@@ -306,17 +306,22 @@ int main(){
 
 ### Ejercicio 1. 
 
+Diseñar un programa que calcule la aceleración normal (o centrípeta) de una partícula con movimiento circular uniforme, dados por teclado la velocidad angular ω de la misma (rad/sg) y el radio R de la trayectoria (m), y que presente el resultado en pantalla. Nota:  	aN=ω2R
 
 
 ### Ejercicio 2. 
 
-
+Diseñar un programa que convierta grados centígrados (Celsius) a Fahrenheit.
 
 ### Ejercicio 3. 
+
+Diseñar un programa que calcule e imprima la masa en kg de una pieza de hierro maciza con forma de tronco de cono circular recto, dados por teclado los valores de los radios a y b (cm), y el valor de la altura h (cm).
 
 
 
 ### Ejercicio 4. 
+
+Diseñar un programa que calcule el momento de una fuerza con respecto a un punto, dados por teclado las componentes de la fuerza (F), las coordenadas de su punto de aplicación (A) y las del punto respecto del cual se calcula el momento. Presentar el resultado especificando el módulo y la dirección (vector unitario) de dicho vector.
 
 
 
