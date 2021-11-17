@@ -60,7 +60,70 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 &ensp;&ensp;&ensp;  [  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
 &ensp;&ensp;&ensp;  [ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
 
+```
+Algoritmo calcularMasaBolaHierro
+Const	
+	PI=3.141593
+	densidad=0.00786	// Kg/cm3
+Var	
+	diametro: real		// diámetro de esfera (cm) 
+	radio: real		// radio de la esfera (cm)  
+	volumen: real		// volumen de la esfera
+	masa: real		// masa en kg
 
+	Escribir "Introduzca el diámetro (cm): "
+	Leer diametro
+	radio <- diametro/2
+	volumen <- 4* PI * radio * radio * radio/3
+	masa <- 0.00786 * volumen
+	Escribir "Masa: ", masa, " Kg"
+Finalgoritmo
+```
+
+
+
+
+```
+	/*
+ * @authors Equipo docente Programación
+ * @project Creación de Materiales Didácticos en la Univer. de Almería (2021-2022)
+ * Grados en Ingeniería Elécctrica, Electrónica Industrial, Mecénica y Química industrial
+ * @date 2021-02-06
+  calcularMasaBolaHierro: programa que calcula la masa en Kg de una bola
+  esferica de hierro, a partir de su diametro en cm
+ */
+
+	#include <stdio.h>
+	#include <stdlib.h>
+	#include <ctype.h>
+
+	#define PI 3.1415
+	#define densidad  0.00786   /* Kg/cm3                   */
+
+	int main(){
+		char c;
+		float diametro;       /* diametro de la esfera    */
+		float radio;          /* radio de la esfera (cm)  */
+		float volumen;        /* volumen de la esfera     */
+		float masa;           /* masa en kg               */
+	
+		do{ system("cls||clear");
+
+		printf("CALCULO DE LA MASA DE UNA BOLA DE HIERRO\n");
+		printf("========================================\n\n");
+		printf("Introduzca el diametro (cm): ");
+		scanf(" %f", &diametro);
+		radio=diametro/2;
+		volumen=4*PI*radio*radio*radio/3;
+		masa=densidad*volumen;
+		printf("\nMasa: %.2f Kg", masa);
+			printf("\nDesea efectuar una nueva operacion (S/N)? ");
+			scanf(" %c",&c);   
+		}while ((c!='N') && (c!='n'));
+	return 0;
+	}
+
+```
 ----
 #### Construir un programa que lea por teclado los componentes espaciales de dos vectores y que calcule e imprima en pantalla la suma de los dos vectores, su producto escalar y  vectorial.
 
