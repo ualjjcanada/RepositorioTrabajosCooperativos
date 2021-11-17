@@ -16,13 +16,13 @@
 int main(){
 	char c;
 
-	do{ system(cls||clear);
+	do{ system("cls||clear");
 			printf("\n");
 			printf("======\n\n");
 
 
 			printf("\n\nDesea efectuar una nueva operacion (s/n)? ");
 			scanf(" %c",&c);
-	}while (c!='N');
+	}while ((c!='N') && (c!='n'));
 	return 0;
 }
