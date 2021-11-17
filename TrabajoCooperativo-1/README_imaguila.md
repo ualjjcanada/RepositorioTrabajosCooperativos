@@ -1,6 +1,12 @@
+
+
+
+
 # Entornos de programación integrados
 
-poseso
+### Temporización
+
+2 horas (2 Presenciales + 0 No presenciales)
 
 ### Objetivos
 -	Manejar un entorno integrado de desarrollo de programas en lenguaje C y usarlo para desarrollar programas.
@@ -95,7 +101,7 @@ Compilar el programa
 
 ---
 
-### Ejercicio 1. Modificación del archivo de Saludo
+### **Ejercicio 1.** Modificación del archivo de Saludo
 
  Cargar en el editor el programa SALUDO.C creado en el ejemplo de sesión de trabajo. Modificar el mensaje de salida, de forma que ahora escriba:
 
@@ -108,7 +114,7 @@ Compilar el programa
 - Descargar el archivo ejercicio1.exe si trabaja con el IDE online.
 - Ejecutar desde el sistema operativo dicho programa.
 
-### Ejercicio 2. Saludo Formal
+### **Ejercicio 2.** Saludo Formal
 
 Copie lo siguiente en el editor del IDE y guárdelo en el disco de prácticas con el nombre ejercicio2.c; tras comprobar que es ejecutable, realice los pasos que se indican al final del ejercicio
 
@@ -140,7 +146,7 @@ Copie lo siguiente en el editor del IDE y guárdelo en el disco de prácticas co
 
 Compruebe que la nueva versión del programa funciona correctamente y grábela.
 
-### Ejercicio 3. Calculadora básica
+### **Ejercicio 3.** Calculadora básica
 
 Entrar en el editor del IDE y copiar las siguientes líneas:
 
@@ -197,29 +203,26 @@ Compile el programa anterior, que se habrá almacenado previamente como ejercici
 Vuelva a compilarlo y una vez que esté sin errores, ejecútelo. Pruebe con los valores que se le indican a continuación la corrección del programa y anote en la siguiente tabla los valores de prueba utilizados y el resultado obtenido. 
 
 
-Valor 1	Valor 2	Código de operación	Resultado
-			Dev cpp	Code::Blocks
-10	10	+		
-10	10	-		
-10	10	*		
--50	50	*		
--50	0	*		
-0	0	-		
-0	0	*		
-20000	20000	+		
-50000	50000	*		
+|Valor 1| Valor 2	|Código de operación	|Resultado|
+| ----- | --------- |---------------------- |---------|
+| 10	| 10		| +						|	      |
+| 10	| 10		| *						|	      |
+| -50	| 50		| *						|	      |
+| -50	| 0 		| *						|	      |
+| 0	 	| 0			| -						|	      |
+| 0		| 0			| *						|	      |
+| 10	| 10		| +						|	      |
+| 20000	| 20000		| +						|	      |
+| 50000	| 50000		| *						|	      |
+		
 
 ¿Ha observado algún resultado anómalo? ¿Cuál puede ser la causa del mismo? 
 
-### Ejercicio 4
 
-Repita los ejercicios 1 y 3 utilizando  el otro IDE.
 
-### Ejercicio 5
+### **Ejercicio 4.**  Teclee el programa siguiente en el editor:
 
- Teclee el programa siguiente en el editor:
-
-/* Ejercicio 5 */
+/* Ejercicio 4 */
 
 ```
 #include <stdio.h>
@@ -257,20 +260,18 @@ Compile el programa anterior. Si aparecen errores tendrá que corregirlos y volv
 
 Error sintáctico	Corrección del error
 
-|  Error | Corrección propuesta |
-|  ----- |----------- |
-|        |            |
-|        |            |
-|        |           |
+|  Error sintáctico | Corrección propuesta |
+|  ---------------- |--------------------- |
+|                   |                      |
+|                   |                      |
+|                   |                      |
 
 
 	
-### Ejercicio 6
-
-Teclee el siguiente programa en el editor y analice los resultados que aparecen en la pantalla:
+### **Ejercicio 5.** Teclee el siguiente programa en el editor y analice los resultados que aparecen en la pantalla:
 	
 ```
-/* Ejercicio 6 */
+/* Ejercicio 5 */
 
 #include <stdio.h>
 
@@ -299,20 +300,20 @@ int main(){
 
 
 ```
+### **Ejercicio 6.** Intente averiguar el significado del control del formato de salida que se está utilizando en las diferencias instrucciones printf.     
 
-Intente averiguar el significado del control del formato de salida que se está utilizando en las diferencias instrucciones printf.             printf("cadena de control", lista de argumentos);
-
-
+        printf("cadena de control", lista de argumentos);
 
 
 ¿Para qué se utiliza el símbolo \n que aparece en bastantes ocasiones en la cadena de control de la instrucción printf?
 
-RESPUESTA:
+
+	RESPUESTA:
 
 ¿Qué relación encuentra entre las secuencias de salida que aparecen en la cadena de control (secuencias de caracteres que empiezan con el símbolo % y acaban en s, d ó f) y los argumentos de la función printf? ¿Encuentra alguna relación lógica entre dichas letras y los correspondientes argumentos?
 
 
-RESPUESTA:
+	RESPUESTA:
 
 
 
@@ -320,29 +321,48 @@ Explique el efecto que producen sobre el texto de salida los siguientes formatos
 
 %s	  
 
-%50s	
+	RESPUESTA:
+
+%50s
+
+	RESPUESTA:
 
 %-50s	
 
+	RESPUESTA:
+
 %-50.10s	
+
+	RESPUESTA:
 
 Explique el efecto que producen sobre la presentación de los números enteros los siguientes formatos:
 
-%d	
+%d	 
+
+	RESPUESTA:
 
 %10d	
+
+	RESPUESTA:
 
 Explique el efecto que producen sobre la presentación de los números reales los siguientes formatos:
 
 %f	
 
+	RESPUESTA:
+
 %15f	
 
+	RESPUESTA:
+
 %15.2f	
+
+	RESPUESTA:
 
 ¿Cuál piensa que puede ser el resultado de la ejecución de la siguiente instrucción? Pruébela copiando dicha línea en cualquiera de los programas de esta práctica y compruebe si coincide con lo que pensó.
 
       printf("Resultado de %d + %d = %f\n",1,1,1+1);
 
 
-RESPUESTA
+
+	RESPUESTA:
