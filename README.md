@@ -1,7 +1,5 @@
 # Configuración del entorno de trabajo
 
-con pull
-
 En esta asígnatura se **aprenderá a programar**, pero además trabajaremos de forma cooperativa para desarrollar todos los ejercicios de las prácticas.
 
 Este **trabajo en equipo** se fundamentará en compartir el trabajo realizado a través del uso de repositorios compartidos de código.
