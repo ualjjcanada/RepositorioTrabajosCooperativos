@@ -31,7 +31,7 @@ Los repositorios local y remoto se deben sincronizar utilizando diversos comando
 
 ## Entornos de desarrollo integrado IDE
 
-Es posible trabajar con dos configuraciones diferentes IDE, una con uso totalmente integrado en la nube y otro que implica la instalación y control del código local, sobre la computadora.
+Es posible trabajar con diversas configuraciones diferentes IDE, bien con uso totalmente integrado en la nube o en un entorno local que implica la instalación y control del código local, sobre la computadora en la que se está trabajando.
 
 El esquema mostrado a continuación muestra ambas posibilidades. Cabe decir que si bien el para la versión "online" el uso de Github es solo necesario para la identificación, es recomendable, para tener doble copia del trabajo, o bien hacer descargas locales.
 
