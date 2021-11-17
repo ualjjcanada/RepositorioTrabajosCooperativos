@@ -55,23 +55,23 @@ Estudio, codificación y prueba (individual o por parejas) de los ejemplos prese
 A continuación se incluyen tres problemas tipo, que se recomienda que los alumnos prueben antes de empezar con sus propias soluciones a los ejercicios.
 
 ---
-<img src="/inicio/prob.png">  Construir un programa que calcule la masa en kilogramos de una bola de hierro dado su diámetro en centímetros.
+#### Construir un programa que calcule la masa en kilogramos de una bola de hierro dado su diámetro en centímetros.
 
-&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
-&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
+&ensp;&ensp;&ensp;  [  CalculoMasaBolaHierro.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.psc)
+&ensp;&ensp;&ensp;  [ CalculoMasaBolaHierro.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/CalcularMasaBolaHierro.c)
 
-
-----
-<img src="/inicio/prob.png">     Construir un programa que lea por teclado los componentes espaciales de dos vectores y que calcule e imprima en pantalla la suma de los dos vectores, su producto escalar y  vectorial.
-
-&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[calculoVectorial.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.psc)
-&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[  calculoVectorial.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.c)
 
 ----
-<img src="/inicio/prob.png"> Una empresa de envasado automático de aceite dispone de diversos tipos de envases con capacidades de 50, 20, 10, 5, 2 y 1 litro, respectivamente. Construir un programa que dado por teclado un número entero de litros a envasar, determine el menor número de envases completos necesarios e indique el número de envases de cada tipo, presentándolos en pantalla
+#### Construir un programa que lea por teclado los componentes espaciales de dos vectores y que calcule e imprima en pantalla la suma de los dos vectores, su producto escalar y  vectorial.
 
-&ensp;&ensp;&ensp;  <img src="/inicio/pseudo.png">[ calcularNumeroEnvases.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.psc)
-&ensp;&ensp;&ensp;  <img src="/inicio/c.png">[ calcularNumeroEnvases.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.c)
+&ensp;&ensp;&ensp;  [calculoVectorial.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.psc)
+&ensp;&ensp;&ensp;  [  calculoVectorial.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calculoVectorial.c)
+
+----
+#### Una empresa de envasado automático de aceite dispone de diversos tipos de envases con capacidades de 50, 20, 10, 5, 2 y 1 litro, respectivamente. Construir un programa que dado por teclado un número entero de litros a envasar, determine el menor número de envases completos necesarios e indique el número de envases de cada tipo, presentándolos en pantalla
+
+&ensp;&ensp;&ensp;  [ calcularNumeroEnvases.psc](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.psc)
+&ensp;&ensp;&ensp;  [ calcularNumeroEnvases.c](https://github.com/MaterialesProgramacion/ProblemasProgramacion/blob/master/Secuencial/calcularNumeroEnvases.c)
 
 -----
 
@@ -81,13 +81,23 @@ A continuación se incluyen tres problemas tipo, que se recomienda que los alumn
 
 ### Ejercicio 2. 
 
+
+
 ### Ejercicio 3. 
+
+
 
 ### Ejercicio 4. 
 
+
+
 ### Ejercicio 5. 
 
+
+
 ### Ejercicio 6. 
+
+
 
 ### Ejercicios adicionales
 
@@ -144,8 +154,3 @@ h = b	m =
 
 #### 7
 Indicar como se puede calcular en lenguaje de programación C el cociente (parte entera) y el resto (parte decimal) de la división entre dos números reales. 
-
-
-
-
-
