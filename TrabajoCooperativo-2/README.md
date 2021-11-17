@@ -318,6 +318,8 @@ Diseñar un programa que convierta grados centígrados (Celsius) a Fahrenheit.
 Diseñar un programa que calcule e imprima la masa en kg de una pieza de hierro maciza con forma de tronco de cono circular recto, dados por teclado los valores de los radios a y b (cm), y el valor de la altura h (cm).
 
 
+H<sub>2</sub>O  CO<sub>2</sub>
+
 
 ### Ejercicio 4. 
 
